@@ -6,11 +6,11 @@
   color:white;
 }
 
-#swap{
-  outline:0;
+#swap:hover{
+  background-color:white;
 }
 
-.button_day{
+.button_night{
   background-color:blue;
   color:white; 
 }
